@@ -19,6 +19,20 @@
 	* Java Script helps the eveloper in spliting the codes into modules and using the code elsewher in the website.
 * #### *Hypertext Preprocessor(PHP)*
 	* Php is the best server side language which always runs on the host server.
-	* Php is Object oriented language and can be used in along with html.
+	* Php is Object oriented language and can be used along with html.
+#### Gist of the possible codes that can be used
+'''<?php
+$servername = "localhost";
+$username = "username";
+$password = "password";
 
+// Create connection
+$conn = new mysqli($servername, $username, $password);
+
+// Check connection
+if ($conn->connect_error) {
+  die("Connection failed: " . $conn->connect_error);
+}
+echo "Connected successfully";
+?>'''
 	
