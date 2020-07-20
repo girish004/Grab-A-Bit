@@ -24,18 +24,35 @@
 * *Mysqli*
 	* This helps us collect the information of the users their id and password and store them in one place
 #### Gist of the possible codes that can be used
+### Connecting the sql and Html page
 	<?php
-	$servername = "localhost";
-	$username = "username";
-	$password = "password";
+	$servername = "localhost";// local host along with port number
+	$username = "username";// username of your mysqli
+	$password = "password";// password for the user of mysqli
 
 	// Create connection
-	$conn = new mysqli($servername, $username, $password);
+	$conn = new mysqli($servername, $username, $password);//oject oriented declaration
 	
 	// Check connection
-	if ($conn->connect_error) {
+	if ($conn->connect_error) {// Boolean value
  	die("Connection failed: " . $conn->connect_error);
 	}
 	echo "Connected successfully";
 	?>
-	
+Saving the above mentioned code in a php file can help us use the code whenever needed
+### Main structure of the code for login page(Without any styles)
+	<html>
+		<body>
+		<form>
+			ID:<input type="text" name="id"><br>
+			Password:<input type="password" name="password"><br>
+			<input type="submit" name="login">
+		</form>
+		</body>
+	</html>
+### Sample code to store the data in sql
+	$sql="insert into table_name values('name','password')
+# Result 
+This project will result in building a webiste which allows all kind of people to access it and shop online.
+This website could benifit everyone in the globe to shop online and get the goods with no contact delivery during ths pandemic.
+		
