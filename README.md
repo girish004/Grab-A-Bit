@@ -20,19 +20,22 @@
 * #### *Hypertext Preprocessor(PHP)*
 	* Php is the best server side language which always runs on the host server.
 	* Php is Object oriented language and can be used along with html.
+#### Back-end
+* *Mysqli*
+	* This helps us collect the information of the users their id and password and store them in one place
 #### Gist of the possible codes that can be used
-> <?php
-> $servername = "localhost";
-> $username = "username";
-> $password = "password";
->
-> // Create connection
-> $conn = new mysqli($servername, $username, $password);
->
-> // Check connection
-> if ($conn->connect_error) {
->  die("Connection failed: " . $conn->connect_error);
-> }
-> echo "Connected successfully";
-> ?>
+	<?php
+	$servername = "localhost";
+	$username = "username";
+	$password = "password";
+
+	// Create connection
+	$conn = new mysqli($servername, $username, $password);
+	
+	// Check connection
+	if ($conn->connect_error) {
+ 	die("Connection failed: " . $conn->connect_error);
+	}
+	echo "Connected successfully";
+	?>
 	
