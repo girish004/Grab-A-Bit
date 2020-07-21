@@ -1,4 +1,4 @@
-# Online-Shopping-Cart
+# Shopping Cart
 #### Basic idea and Key objective
 * ##### Basic idea
 	* To provide an **online shopping portal** to help people purchase products online using their unique ID and password which will helps them access the website and purchase the desired product.
