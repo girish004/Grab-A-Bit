@@ -1,11 +1,11 @@
 # Online-Shopping-Cart
 #### Basic idea and Key objective
 * ##### Basic idea
-	* Providing an **online shopping portal** that help people to purchase products online using their unique id and password which helps them access the website and purchase.
+	* To provide an **online shopping portal** to help people purchase products online using their unique ID and password which will helps them access the website and purchase the desired product.
 * ##### Key objective
-	* This pandemic situation has made people sit in a room of four walls and just gaze at the walls of the room. So the main moto of this project is to overcome this situation with a pleasent website which offers people to see for different goods and get them delivered in days with contact less delivery option.
-	* Also many people in this modern world are running busy. This user friendly website allows the user to purchase products by sitting comfortably in home.
-	* Users are the backbone of this website. So this website have a separate pane for the users to mention their queries and complaints regarding the websites for the further improvements of the website.
+	* This pandemic has made everyone all around the world sit in a room with four walls, just gazing at the walls and everyone is itching to shop. So the main moto of this project is to create a website which offers people to purchase different items and get them delivered in days with no-contact delivery option.
+	* Plus, many are running busy in today's modern world. This user friendly website allows the user to purchase products by sitting comfortably at home.
+	* Users are the backbone of this website. To ensure their satisfaction the website provides a separate panel for the users to mention their queries and complaints regarding the websites for the further improvements of the website.
 # Tools and Programming languges used
 #### Front end
 * #### *Hyper Text Mark-up Language(HTML)*
