@@ -1,13 +1,14 @@
 # Shopping Cart
 #### Basic idea and Key objective
 * ##### Basic idea
-	* To provide an **online shopping portal** to help people purchase products online using their unique ID and password which will helps them access the website and purchase the desired product.
-* ##### Key objective
-	* This pandemic has made everyone all around the world sit in a room with four walls, just gazing at the walls and everyone is itching to shop. So the main moto of this project is to create a website which offers people to purchase different items and get them delivered in days with no-contact delivery option.
-	* Plus, many are running busy in today's modern world. This user friendly website allows the user to purchase products by sitting comfortably at home.
-	* Users are the backbone of this website. To ensure their satisfaction the website provides a separate panel for the users to mention their queries and complaints regarding the websites for the further improvements of the website.
+	* To provide web interface for our college's cafeteria **Gazebo** to avoid the commotion during the lunch breaks where student's willing to have their lunch in gazebo must have to wait in a long queue to get their orders done and at times they might endup without having their lunch since they'll have to rush to their classes.
+	* So, providing them with a website which allows them to order the food whenever they are inside the campus allows them them to get their order done and also students can have their lunch on time without standing in the queue and waiting for their food to get done.
+* ##### Key Objective.
+	* ##### Social Problem
+		* Considering this pandemic situation, this web interface helps us to avoid contact of students and encourage social distancing.
+		* This also introduces the new system to be followed in Gazebo which helps the students to have their lunch and snacks on time.
 # Tools and Programming languges used
-#### Front end
+#### Front end 
 * #### *Hyper Text Mark-up Language(HTML)*
 	* This front-end client side language has so many attributes that makes a website
 	* This describes the structure of a Web page
