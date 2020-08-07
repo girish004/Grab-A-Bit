@@ -54,6 +54,5 @@ Saving the above mentioned code in a php file can help us use the code whenever 
 ### Sample code to store the data in sql
 	$sql="insert into table_name values('name','password')
 # Result 
-This project will result in building a webiste which allows all kind of people to access it and shop online.
-This website could benifit everyone in the globe to shop online and get the goods with no contact delivery during ths pandemic.
+This project will result in building a webiste which allows all students to get their snack and lunch done in the gazebo on time without any rush and commotion thereby encouraging the social distancing.
 		
