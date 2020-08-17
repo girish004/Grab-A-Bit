@@ -1,4 +1,5 @@
-# Shopping Cart
+# Grab a Bite 
+# Gazebo Pickup Website
 #### Basic idea and Key objective
 * ##### Basic idea
 	* To provide web interface for our college's cafeteria **Gazebo** to avoid the commotion during the lunch breaks where student's willing to have their lunch in gazebo must have to wait in a long queue to get their orders done and at times they might endup without having their lunch since they'll have to rush to their classes.
