@@ -1,4 +1,4 @@
-# Grab a Bite 
+# GRAB A BITE
 # Gazebo Pickup Website
 #### Basic idea and Key objective
 * ##### Basic idea
