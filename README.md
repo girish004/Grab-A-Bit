@@ -54,6 +54,8 @@ Saving the above mentioned code in a php file can help us use the code whenever 
 	</html>
 ### Sample code to store the data in sql
 	$sql="insert into table_name values('name','password')
+### Database
+###### A database (.sql) file is attached with the repository which can be importred in the Xampp server which runs in the localhost enables you to use this project and access all the pages without any problem
 # Result 
 This project will result in building a webiste which allows all students to get their snack and lunch done in the gazebo on time without any rush and commotion thereby encouraging the social distancing.
 		
